@@ -1,7 +1,7 @@
 
 # About the project
  
-‘서울시 열린데이터 광장’에서 제공하는, [서울시 개인적인 고민거리 통계](https://data.seoul.go.kr/dataList/datasetView.do?infId=10416&srvType=S&serviceKind=2&currentPageNo=1&searchValue=&searchKey=null)(2014년, 서울특별시 스마트도시정책관 빅데이터담당관)라는 공공데이터를 활용하여, 차트와 워드클라우드로 시각화를 시도해보는 프로젝트다. 
+‘서울시 열린데이터 광장’에서 제공하는, [서울시 개인적인 고민거리 통계](https://data.seoul.go.kr/dataList/datasetView.do?infId=10416&srvType=S&serviceKind=2&currentPageNo=1&searchValue=&searchKey=null)(2014년, 서울특별시 스마트도시정책관 빅데이터담당관) 공공데이터를 활용하여, 차트와 워드클라우드로 시각화를 시도해보는 프로젝트다. 
 
 
 # Purpose of the project
