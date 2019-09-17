@@ -41,9 +41,15 @@ Visual Studio Code Version: 1.38.0
 
 # Authors
 * **강민웅**:  [강민웅의 깃헙](https:/github.com/happymwkang)
-* **김수경**: [김수경의 깃헙](https://github.com/sooish)
+* **김수경**:  [김수경의 깃헙](https://github.com/sooish)
 * **김웅태**:  [김웅태의 깃헙](https://github.com/angle2v)
 * **김종성**:  [김종성의 깃헙](https://github.com/SEJSCloud)
 
 
 # Images
+
+<div>
+<img src="https://user-images.githubusercontent.com/51253930/65004100-25f84600-d936-11e9-8aaf-1fecd63cb41d.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/51253930/65004098-242e8280-d936-11e9-9772-62e5dee86a70.png" width="90%"></img>
+</img>
+</div>
