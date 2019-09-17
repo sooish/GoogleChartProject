@@ -50,7 +50,6 @@ Visual Studio Code Version: 1.38.0
 # Images
 
 <div>
-<img src="https://user-images.githubusercontent.com/51253930/65004100-25f84600-d936-11e9-8aaf-1fecd63cb41d.png" width="90%"></img>
-<img src="https://user-images.githubusercontent.com/51253930/65004098-242e8280-d936-11e9-9772-62e5dee86a70.png" width="90%"></img>
-</img>
+<img src="https://user-images.githubusercontent.com/51253930/65009903-3ebe2700-d949-11e9-89d2-1ba909ac3dca.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/51253930/65009900-3d8cfa00-d949-11e9-9ac0-2b5dd723e5de.png" width="90%"></img> 
 </div>
