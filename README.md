@@ -1,14 +1,14 @@
 
 # About the project
  
-‘서울시 열린데이터 광장’에서 제공하는 공공데이터, [서울시 개인적인 고민거리 통계](https://data.seoul.go.kr/dataList/datasetView.do?infId=10416&srvType=S&serviceKind=2&currentPageNo=1&searchValue=&searchKey=null) (서울특별시 스마트도시정책관 빅데이터담당관, 2014년)를 활용하여, 구글 차트와 워드클라우드로 데이터 시각화를 시도해보는 프로젝트이다. 
+‘서울시 열린데이터 광장’에서 제공하는 여러 공공데이터 가운데 [서울시 개인적인 고민거리 통계](https://data.seoul.go.kr/dataList/datasetView.do?infId=10416&srvType=S&serviceKind=2&currentPageNo=1&searchValue=&searchKey=null) (서울특별시 스마트도시정책관 빅데이터담당관, 2014년)를 활용하여, 구글 차트와 워드클라우드로 데이터 시각화를 시도해보는 프로젝트이다. 
 
 
 # Purpose of the project
 
 이 프로젝트를 통해 이루고자 하는 학습목표는 다음과 같다.
  
-1. 연구에서 시사점을 다각도로 이끌어 내는 것이 가능한 주제/연구방식을 지닌 데이터 선정하기
+1. 데이터 분석에서 시사점을 다각도로 이끌어 내는 것이 가능한 주제/연구방식을 지닌 데이터 선정하기
 2. 구글 차트를 그리기에 적합한 형식으로 데이터 변환하기 
 3. 구글 차트로 구현될 수 있도록 자바언어로 프로그래밍
 4. 데이터를 워드클라우드로 시각화하기
