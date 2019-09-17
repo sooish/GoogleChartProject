@@ -20,9 +20,9 @@
 
 # Development Environment
 
-Window 10
-Eclipse Java EE IDE for Web Developers Version: Photon Release (4.8.0)  
-Visual Studio Code Version: 1.38.0
+Window 10<br>
+Eclipse Java EE IDE for Web Developers Version: Photon Release (4.8.0)<br>  
+Visual Studio Code Version: 1.38.0<br>
 
 # Built with
 
@@ -36,8 +36,8 @@ Visual Studio Code Version: 1.38.0
 ```
 
 # How to run it
-1. Eclipse에서 jsp 파일에 JSON 데이터를 넣어놓고웹서버를 가동한다
-2. VSC에서 step03_miniProject.html 파일을 라이브 서버로 가동한다
+1. Eclipse에서 jsp 파일에 JSON 데이터를 넣은 후 웹서버를 가동한다
+2. VSC에서 "step03_miniProject.html" 파일을 라이브 서버로 가동한다
 3. 분석을 시작한다
 
 # Authors
