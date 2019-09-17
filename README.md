@@ -41,7 +41,7 @@ Visual Studio Code(1.38.0)<br>
 3. 분석을 시작한다
 
 # Authors
-* **강민웅**:  [강민웅의 깃헙](https:/github.com/happymwkang)
+* **강민웅**:  [강민웅의 깃헙](https://github.com/happymwkang)
 * **김수경**:  [김수경의 깃헙](https://github.com/sooish)
 * **김웅태**:  [김웅태의 깃헙](https://github.com/angle2v)
 * **김종성**:  [김종성의 깃헙](https://github.com/SEJSCloud)
