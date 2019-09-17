@@ -20,9 +20,9 @@
 
 # Development Environment
 
-Window 10<br>
-Eclipse Java EE IDE for Web Developers Version: Photon Release (4.8.0)<br>  
-Visual Studio Code Version: 1.38.0<br>
+Window 10
+Eclipse Java EE IDE for Web Developers Version: Photon Release (4.8.0)
+Visual Studio Code Version: 1.38.0
 
 # Built with
 
